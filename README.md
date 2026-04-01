@@ -4,7 +4,7 @@
 
 ## Group Details
 
-**Group Number:** G-14
+**Group Number:** G-06
 **Group Members:**
 
 * Ananya Garg 
